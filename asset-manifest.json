@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/octopussy/static/css/main.2c737433.css",
-    "main.js": "/octopussy/static/js/main.51f65eeb.js",
+    "main.css": "/octopussy/static/css/main.20541c60.css",
+    "main.js": "/octopussy/static/js/main.2cbac594.js",
     "static/media/filz.jpg": "/octopussy/static/media/filz.45d67b2e142121889ccf.jpg",
     "static/media/Roboto-Regular.woff": "/octopussy/static/media/Roboto-Regular.f7bafc7e0b4cc5d4a0d9.woff",
     "index.html": "/octopussy/index.html",
-    "main.2c737433.css.map": "/octopussy/static/css/main.2c737433.css.map",
-    "main.51f65eeb.js.map": "/octopussy/static/js/main.51f65eeb.js.map"
+    "main.20541c60.css.map": "/octopussy/static/css/main.20541c60.css.map",
+    "main.2cbac594.js.map": "/octopussy/static/js/main.2cbac594.js.map"
   },
   "entrypoints": [
-    "static/css/main.2c737433.css",
-    "static/js/main.51f65eeb.js"
+    "static/css/main.20541c60.css",
+    "static/js/main.2cbac594.js"
   ]
 }
