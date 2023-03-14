@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/octopussy/static/css/main.073c9b0a.css",
-    "main.js": "/octopussy/static/js/main.2b1f3a70.js",
+    "main.js": "/octopussy/static/js/main.547c2638.js",
     "index.html": "/octopussy/index.html",
     "main.073c9b0a.css.map": "/octopussy/static/css/main.073c9b0a.css.map",
-    "main.2b1f3a70.js.map": "/octopussy/static/js/main.2b1f3a70.js.map"
+    "main.547c2638.js.map": "/octopussy/static/js/main.547c2638.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2b1f3a70.js"
+    "static/js/main.547c2638.js"
   ]
 }
